@@ -91,11 +91,11 @@ one()
 					$("#divResult").fadeIn(2000,function()
 							{
 							$("#divResult2").fadeOut(0);
-							$("#divResult2").html("<p>♥ ỪA THÌ TAO BIẾT TAO ĐẸP TRAI THẬT. NHƯNG THÔI TAO CŨNG ĐÀNH CHỊU THIỆT YÊU MẦY VẬY .<img src='http://website1gia.com/files/assets/4.png'/></p></br>");
+							$("#divResult2").html("<p>♥ ỪA THÌ TAO BIẾT TAO ĐẸP TRAI THẬT. AHIHI NGẠI QUÁ NGẠI QUÁ, CÁM ƠN NHA .<img src='http://website1gia.com/files/assets/4.png'/></p></br>");
 							$("#divResult2").fadeIn(2000,function()
 									{
 									$("#divResult3").fadeOut(0);
-									$("#divResult3").html("<p>VẬY HÃY ĐỂ TRÁI TIM TAO THUỘC VỀ MẦY MỘT LẦN NHÉ!  <img src='http://website1gia.com/files/assets/5.png'/></p></br>");
+									$("#divResult3").html("<p>NGOAN NGOAN VÀI BỮA NỮA THI XONG ANH CHO EM ĐỌT XỦI BỊT ♥  <img src='http://website1gia.com/files/assets/5.png'/></p></br>");
 									$("#divResult3").fadeIn(2000);
 									}
 								);
